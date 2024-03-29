@@ -25,3 +25,6 @@ else{
     document.querySelector("h1").innerText="Player 2 Wins! 👉";
 
 }
+function refreshpage() {
+    location.reload(); // Reloads the current document
+}
