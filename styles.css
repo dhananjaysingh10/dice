@@ -39,3 +39,9 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.button{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  justify-content: center;
+}
